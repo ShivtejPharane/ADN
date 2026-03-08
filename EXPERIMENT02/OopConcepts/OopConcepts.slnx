@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="AbstractDemo/AbstractDemo.csproj" Id="7a4dbb68-8104-4ab9-9e0f-c8c542320180" />
+  <Project Path="class_object/class_object.csproj" Id="f98238fe-fdcf-4d6a-9c70-ff8aaa9219e4" />
+  <Project Path="ConstructorDemo/ConstructorDemo.csproj" Id="912a59b2-5b89-495b-ab29-3cc2ba552e01" />
+  <Project Path="Inheritance/Inheritance/Inheritance.csproj" Id="3c4d23f8-fc17-43c2-a1b1-f5335c3fa75e" />
+  <Project Path="Interface/Interface.csproj" Id="161b2ab4-e199-40d8-bc26-7c4d83ee877a" />
+  <Project Path="Polymorphism/Polymorphism.csproj" Id="a879527b-65a8-4a85-9786-21cf167964d1" />
+</Solution>

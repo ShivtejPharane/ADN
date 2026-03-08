@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DEPENDENCY INVERSION PRINCIPLE/1.0.0": {
+        "runtime": {
+          "DEPENDENCY INVERSION PRINCIPLE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DEPENDENCY INVERSION PRINCIPLE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

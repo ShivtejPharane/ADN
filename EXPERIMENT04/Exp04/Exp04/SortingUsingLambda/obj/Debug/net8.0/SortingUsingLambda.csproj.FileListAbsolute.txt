@@ -1,0 +1,15 @@
+D:\Dotnet\Lab\Exp04\Exp04\SortingUsingLambda\bin\Debug\net8.0\SortingUsingLambda.exe
+D:\Dotnet\Lab\Exp04\Exp04\SortingUsingLambda\bin\Debug\net8.0\SortingUsingLambda.deps.json
+D:\Dotnet\Lab\Exp04\Exp04\SortingUsingLambda\bin\Debug\net8.0\SortingUsingLambda.runtimeconfig.json
+D:\Dotnet\Lab\Exp04\Exp04\SortingUsingLambda\bin\Debug\net8.0\SortingUsingLambda.dll
+D:\Dotnet\Lab\Exp04\Exp04\SortingUsingLambda\bin\Debug\net8.0\SortingUsingLambda.pdb
+D:\Dotnet\Lab\Exp04\Exp04\SortingUsingLambda\obj\Debug\net8.0\SortingUsingLambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\Lab\Exp04\Exp04\SortingUsingLambda\obj\Debug\net8.0\SortingUsingLambda.AssemblyInfoInputs.cache
+D:\Dotnet\Lab\Exp04\Exp04\SortingUsingLambda\obj\Debug\net8.0\SortingUsingLambda.AssemblyInfo.cs
+D:\Dotnet\Lab\Exp04\Exp04\SortingUsingLambda\obj\Debug\net8.0\SortingUsingLambda.csproj.CoreCompileInputs.cache
+D:\Dotnet\Lab\Exp04\Exp04\SortingUsingLambda\obj\Debug\net8.0\SortingUsingLambda.sourcelink.json
+D:\Dotnet\Lab\Exp04\Exp04\SortingUsingLambda\obj\Debug\net8.0\SortingUsingLambda.dll
+D:\Dotnet\Lab\Exp04\Exp04\SortingUsingLambda\obj\Debug\net8.0\refint\SortingUsingLambda.dll
+D:\Dotnet\Lab\Exp04\Exp04\SortingUsingLambda\obj\Debug\net8.0\SortingUsingLambda.pdb
+D:\Dotnet\Lab\Exp04\Exp04\SortingUsingLambda\obj\Debug\net8.0\SortingUsingLambda.genruntimeconfig.cache
+D:\Dotnet\Lab\Exp04\Exp04\SortingUsingLambda\obj\Debug\net8.0\ref\SortingUsingLambda.dll

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CalculatorUsingDelegates/CalculatorUsingDelegates.csproj" />
+  <Project Path="MulticastDelegate/MulticastDelegate.csproj" />
+  <Project Path="replacemethodwithLambdaExpression/replacemethodwithLambdaExpression.csproj" />
+  <Project Path="SortingUsingLambda/SortingUsingLambda.csproj" />
+</Solution>

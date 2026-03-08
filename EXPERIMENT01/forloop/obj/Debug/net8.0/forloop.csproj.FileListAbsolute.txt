@@ -1,0 +1,14 @@
+C:\Users\OM\source\repos\Basic_implemnentation\forloop\bin\Debug\net8.0\forloop.exe
+C:\Users\OM\source\repos\Basic_implemnentation\forloop\bin\Debug\net8.0\forloop.deps.json
+C:\Users\OM\source\repos\Basic_implemnentation\forloop\bin\Debug\net8.0\forloop.runtimeconfig.json
+C:\Users\OM\source\repos\Basic_implemnentation\forloop\bin\Debug\net8.0\forloop.dll
+C:\Users\OM\source\repos\Basic_implemnentation\forloop\bin\Debug\net8.0\forloop.pdb
+C:\Users\OM\source\repos\Basic_implemnentation\forloop\obj\Debug\net8.0\forloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OM\source\repos\Basic_implemnentation\forloop\obj\Debug\net8.0\forloop.AssemblyInfoInputs.cache
+C:\Users\OM\source\repos\Basic_implemnentation\forloop\obj\Debug\net8.0\forloop.AssemblyInfo.cs
+C:\Users\OM\source\repos\Basic_implemnentation\forloop\obj\Debug\net8.0\forloop.csproj.CoreCompileInputs.cache
+C:\Users\OM\source\repos\Basic_implemnentation\forloop\obj\Debug\net8.0\forloop.dll
+C:\Users\OM\source\repos\Basic_implemnentation\forloop\obj\Debug\net8.0\refint\forloop.dll
+C:\Users\OM\source\repos\Basic_implemnentation\forloop\obj\Debug\net8.0\forloop.pdb
+C:\Users\OM\source\repos\Basic_implemnentation\forloop\obj\Debug\net8.0\forloop.genruntimeconfig.cache
+C:\Users\OM\source\repos\Basic_implemnentation\forloop\obj\Debug\net8.0\ref\forloop.dll

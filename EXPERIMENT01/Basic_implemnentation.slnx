@@ -1,0 +1,16 @@
+<Solution>
+  <Project Path="Boolean/Boolean.csproj" />
+  <Project Path="break_continue/break_continue.csproj" />
+  <Project Path="DataTypes/DataTypes.csproj" />
+  <Project Path="forloop/forloop.csproj" />
+  <Project Path="helloworld/helloworld.csproj" />
+  <Project Path="if_else/if_else.csproj" />
+  <Project Path="Math/Math.csproj" />
+  <Project Path="Operators/Operators.csproj" />
+  <Project Path="string/string.csproj" />
+  <Project Path="Switch/Switch.csproj" />
+  <Project Path="TypeCasting/TypeCasting.csproj" />
+  <Project Path="UserInput/UserInput.csproj" />
+  <Project Path="variable_declaration/variable_declaration.csproj" />
+  <Project Path="whileloop/whileloop.csproj" />
+</Solution>

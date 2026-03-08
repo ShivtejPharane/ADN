@@ -1,0 +1,15 @@
+D:\Dotnet\Lab\Exp04\Exp04\replacemethodwithLambdaExpression\bin\Debug\net8.0\replacemethodwithLambdaExpression.exe
+D:\Dotnet\Lab\Exp04\Exp04\replacemethodwithLambdaExpression\bin\Debug\net8.0\replacemethodwithLambdaExpression.deps.json
+D:\Dotnet\Lab\Exp04\Exp04\replacemethodwithLambdaExpression\bin\Debug\net8.0\replacemethodwithLambdaExpression.runtimeconfig.json
+D:\Dotnet\Lab\Exp04\Exp04\replacemethodwithLambdaExpression\bin\Debug\net8.0\replacemethodwithLambdaExpression.dll
+D:\Dotnet\Lab\Exp04\Exp04\replacemethodwithLambdaExpression\bin\Debug\net8.0\replacemethodwithLambdaExpression.pdb
+D:\Dotnet\Lab\Exp04\Exp04\replacemethodwithLambdaExpression\obj\Debug\net8.0\replacemethodwithLambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\Lab\Exp04\Exp04\replacemethodwithLambdaExpression\obj\Debug\net8.0\replacemethodwithLambdaExpression.AssemblyInfoInputs.cache
+D:\Dotnet\Lab\Exp04\Exp04\replacemethodwithLambdaExpression\obj\Debug\net8.0\replacemethodwithLambdaExpression.AssemblyInfo.cs
+D:\Dotnet\Lab\Exp04\Exp04\replacemethodwithLambdaExpression\obj\Debug\net8.0\replacemethodwithLambdaExpression.csproj.CoreCompileInputs.cache
+D:\Dotnet\Lab\Exp04\Exp04\replacemethodwithLambdaExpression\obj\Debug\net8.0\replacemethodwithLambdaExpression.sourcelink.json
+D:\Dotnet\Lab\Exp04\Exp04\replacemethodwithLambdaExpression\obj\Debug\net8.0\replacemethodwithLambdaExpression.dll
+D:\Dotnet\Lab\Exp04\Exp04\replacemethodwithLambdaExpression\obj\Debug\net8.0\refint\replacemethodwithLambdaExpression.dll
+D:\Dotnet\Lab\Exp04\Exp04\replacemethodwithLambdaExpression\obj\Debug\net8.0\replacemethodwithLambdaExpression.pdb
+D:\Dotnet\Lab\Exp04\Exp04\replacemethodwithLambdaExpression\obj\Debug\net8.0\replacemethodwithLambdaExpression.genruntimeconfig.cache
+D:\Dotnet\Lab\Exp04\Exp04\replacemethodwithLambdaExpression\obj\Debug\net8.0\ref\replacemethodwithLambdaExpression.dll

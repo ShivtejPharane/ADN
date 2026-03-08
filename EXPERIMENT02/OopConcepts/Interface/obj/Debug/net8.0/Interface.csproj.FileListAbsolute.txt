@@ -1,0 +1,14 @@
+D:\DotNet\OopConcepts\Interface\bin\Debug\net8.0\Interface.exe
+D:\DotNet\OopConcepts\Interface\bin\Debug\net8.0\Interface.deps.json
+D:\DotNet\OopConcepts\Interface\bin\Debug\net8.0\Interface.runtimeconfig.json
+D:\DotNet\OopConcepts\Interface\bin\Debug\net8.0\Interface.dll
+D:\DotNet\OopConcepts\Interface\bin\Debug\net8.0\Interface.pdb
+D:\DotNet\OopConcepts\Interface\obj\Debug\net8.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\OopConcepts\Interface\obj\Debug\net8.0\Interface.AssemblyInfoInputs.cache
+D:\DotNet\OopConcepts\Interface\obj\Debug\net8.0\Interface.AssemblyInfo.cs
+D:\DotNet\OopConcepts\Interface\obj\Debug\net8.0\Interface.csproj.CoreCompileInputs.cache
+D:\DotNet\OopConcepts\Interface\obj\Debug\net8.0\Interface.dll
+D:\DotNet\OopConcepts\Interface\obj\Debug\net8.0\refint\Interface.dll
+D:\DotNet\OopConcepts\Interface\obj\Debug\net8.0\Interface.pdb
+D:\DotNet\OopConcepts\Interface\obj\Debug\net8.0\Interface.genruntimeconfig.cache
+D:\DotNet\OopConcepts\Interface\obj\Debug\net8.0\ref\Interface.dll

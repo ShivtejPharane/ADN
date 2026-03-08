@@ -1,0 +1,15 @@
+D:\Dotnet\Lab\Exp04\Exp04\CalculatorUsingDelegates\bin\Debug\net8.0\CalculatorUsingDelegates.exe
+D:\Dotnet\Lab\Exp04\Exp04\CalculatorUsingDelegates\bin\Debug\net8.0\CalculatorUsingDelegates.deps.json
+D:\Dotnet\Lab\Exp04\Exp04\CalculatorUsingDelegates\bin\Debug\net8.0\CalculatorUsingDelegates.runtimeconfig.json
+D:\Dotnet\Lab\Exp04\Exp04\CalculatorUsingDelegates\bin\Debug\net8.0\CalculatorUsingDelegates.dll
+D:\Dotnet\Lab\Exp04\Exp04\CalculatorUsingDelegates\bin\Debug\net8.0\CalculatorUsingDelegates.pdb
+D:\Dotnet\Lab\Exp04\Exp04\CalculatorUsingDelegates\obj\Debug\net8.0\CalculatorUsingDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\Lab\Exp04\Exp04\CalculatorUsingDelegates\obj\Debug\net8.0\CalculatorUsingDelegates.AssemblyInfoInputs.cache
+D:\Dotnet\Lab\Exp04\Exp04\CalculatorUsingDelegates\obj\Debug\net8.0\CalculatorUsingDelegates.AssemblyInfo.cs
+D:\Dotnet\Lab\Exp04\Exp04\CalculatorUsingDelegates\obj\Debug\net8.0\CalculatorUsingDelegates.csproj.CoreCompileInputs.cache
+D:\Dotnet\Lab\Exp04\Exp04\CalculatorUsingDelegates\obj\Debug\net8.0\CalculatorUsingDelegates.sourcelink.json
+D:\Dotnet\Lab\Exp04\Exp04\CalculatorUsingDelegates\obj\Debug\net8.0\CalculatorUsingDelegates.dll
+D:\Dotnet\Lab\Exp04\Exp04\CalculatorUsingDelegates\obj\Debug\net8.0\refint\CalculatorUsingDelegates.dll
+D:\Dotnet\Lab\Exp04\Exp04\CalculatorUsingDelegates\obj\Debug\net8.0\CalculatorUsingDelegates.pdb
+D:\Dotnet\Lab\Exp04\Exp04\CalculatorUsingDelegates\obj\Debug\net8.0\CalculatorUsingDelegates.genruntimeconfig.cache
+D:\Dotnet\Lab\Exp04\Exp04\CalculatorUsingDelegates\obj\Debug\net8.0\ref\CalculatorUsingDelegates.dll

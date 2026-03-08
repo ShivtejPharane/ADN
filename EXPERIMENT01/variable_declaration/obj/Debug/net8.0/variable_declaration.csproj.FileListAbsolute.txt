@@ -1,0 +1,14 @@
+C:\Users\OM\source\repos\Basic_implemnentation\variable_declaration\bin\Debug\net8.0\variable_declaration.exe
+C:\Users\OM\source\repos\Basic_implemnentation\variable_declaration\bin\Debug\net8.0\variable_declaration.deps.json
+C:\Users\OM\source\repos\Basic_implemnentation\variable_declaration\bin\Debug\net8.0\variable_declaration.runtimeconfig.json
+C:\Users\OM\source\repos\Basic_implemnentation\variable_declaration\bin\Debug\net8.0\variable_declaration.dll
+C:\Users\OM\source\repos\Basic_implemnentation\variable_declaration\bin\Debug\net8.0\variable_declaration.pdb
+C:\Users\OM\source\repos\Basic_implemnentation\variable_declaration\obj\Debug\net8.0\variable_declaration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OM\source\repos\Basic_implemnentation\variable_declaration\obj\Debug\net8.0\variable_declaration.AssemblyInfoInputs.cache
+C:\Users\OM\source\repos\Basic_implemnentation\variable_declaration\obj\Debug\net8.0\variable_declaration.AssemblyInfo.cs
+C:\Users\OM\source\repos\Basic_implemnentation\variable_declaration\obj\Debug\net8.0\variable_declaration.csproj.CoreCompileInputs.cache
+C:\Users\OM\source\repos\Basic_implemnentation\variable_declaration\obj\Debug\net8.0\variable_declaration.dll
+C:\Users\OM\source\repos\Basic_implemnentation\variable_declaration\obj\Debug\net8.0\refint\variable_declaration.dll
+C:\Users\OM\source\repos\Basic_implemnentation\variable_declaration\obj\Debug\net8.0\variable_declaration.pdb
+C:\Users\OM\source\repos\Basic_implemnentation\variable_declaration\obj\Debug\net8.0\variable_declaration.genruntimeconfig.cache
+C:\Users\OM\source\repos\Basic_implemnentation\variable_declaration\obj\Debug\net8.0\ref\variable_declaration.dll

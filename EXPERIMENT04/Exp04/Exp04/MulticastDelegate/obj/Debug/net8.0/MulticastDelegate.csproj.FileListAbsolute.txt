@@ -1,0 +1,15 @@
+D:\Dotnet\Lab\Exp04\Exp04\MulticastDelegate\bin\Debug\net8.0\MulticastDelegate.exe
+D:\Dotnet\Lab\Exp04\Exp04\MulticastDelegate\bin\Debug\net8.0\MulticastDelegate.deps.json
+D:\Dotnet\Lab\Exp04\Exp04\MulticastDelegate\bin\Debug\net8.0\MulticastDelegate.runtimeconfig.json
+D:\Dotnet\Lab\Exp04\Exp04\MulticastDelegate\bin\Debug\net8.0\MulticastDelegate.dll
+D:\Dotnet\Lab\Exp04\Exp04\MulticastDelegate\bin\Debug\net8.0\MulticastDelegate.pdb
+D:\Dotnet\Lab\Exp04\Exp04\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\Lab\Exp04\Exp04\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.AssemblyInfoInputs.cache
+D:\Dotnet\Lab\Exp04\Exp04\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.AssemblyInfo.cs
+D:\Dotnet\Lab\Exp04\Exp04\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.csproj.CoreCompileInputs.cache
+D:\Dotnet\Lab\Exp04\Exp04\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.sourcelink.json
+D:\Dotnet\Lab\Exp04\Exp04\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.dll
+D:\Dotnet\Lab\Exp04\Exp04\MulticastDelegate\obj\Debug\net8.0\refint\MulticastDelegate.dll
+D:\Dotnet\Lab\Exp04\Exp04\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.pdb
+D:\Dotnet\Lab\Exp04\Exp04\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.genruntimeconfig.cache
+D:\Dotnet\Lab\Exp04\Exp04\MulticastDelegate\obj\Debug\net8.0\ref\MulticastDelegate.dll

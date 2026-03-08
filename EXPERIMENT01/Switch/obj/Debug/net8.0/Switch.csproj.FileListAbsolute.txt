@@ -1,0 +1,14 @@
+C:\Users\OM\source\repos\Basic_implemnentation\Switch\bin\Debug\net8.0\Switch.exe
+C:\Users\OM\source\repos\Basic_implemnentation\Switch\bin\Debug\net8.0\Switch.deps.json
+C:\Users\OM\source\repos\Basic_implemnentation\Switch\bin\Debug\net8.0\Switch.runtimeconfig.json
+C:\Users\OM\source\repos\Basic_implemnentation\Switch\bin\Debug\net8.0\Switch.dll
+C:\Users\OM\source\repos\Basic_implemnentation\Switch\bin\Debug\net8.0\Switch.pdb
+C:\Users\OM\source\repos\Basic_implemnentation\Switch\obj\Debug\net8.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OM\source\repos\Basic_implemnentation\Switch\obj\Debug\net8.0\Switch.AssemblyInfoInputs.cache
+C:\Users\OM\source\repos\Basic_implemnentation\Switch\obj\Debug\net8.0\Switch.AssemblyInfo.cs
+C:\Users\OM\source\repos\Basic_implemnentation\Switch\obj\Debug\net8.0\Switch.csproj.CoreCompileInputs.cache
+C:\Users\OM\source\repos\Basic_implemnentation\Switch\obj\Debug\net8.0\Switch.dll
+C:\Users\OM\source\repos\Basic_implemnentation\Switch\obj\Debug\net8.0\refint\Switch.dll
+C:\Users\OM\source\repos\Basic_implemnentation\Switch\obj\Debug\net8.0\Switch.pdb
+C:\Users\OM\source\repos\Basic_implemnentation\Switch\obj\Debug\net8.0\Switch.genruntimeconfig.cache
+C:\Users\OM\source\repos\Basic_implemnentation\Switch\obj\Debug\net8.0\ref\Switch.dll

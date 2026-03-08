@@ -1,0 +1,15 @@
+D:\DotNet\Dotnet\Lab\SolidPrincipal\OPENCLOSEDRINCIPLE\bin\Debug\net8.0\OPENCLOSEDRINCIPLE.exe
+D:\DotNet\Dotnet\Lab\SolidPrincipal\OPENCLOSEDRINCIPLE\bin\Debug\net8.0\OPENCLOSEDRINCIPLE.deps.json
+D:\DotNet\Dotnet\Lab\SolidPrincipal\OPENCLOSEDRINCIPLE\bin\Debug\net8.0\OPENCLOSEDRINCIPLE.runtimeconfig.json
+D:\DotNet\Dotnet\Lab\SolidPrincipal\OPENCLOSEDRINCIPLE\bin\Debug\net8.0\OPENCLOSEDRINCIPLE.dll
+D:\DotNet\Dotnet\Lab\SolidPrincipal\OPENCLOSEDRINCIPLE\bin\Debug\net8.0\OPENCLOSEDRINCIPLE.pdb
+D:\DotNet\Dotnet\Lab\SolidPrincipal\OPENCLOSEDRINCIPLE\obj\Debug\net8.0\OPENCLOSEDRINCIPLE.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Dotnet\Lab\SolidPrincipal\OPENCLOSEDRINCIPLE\obj\Debug\net8.0\OPENCLOSEDRINCIPLE.AssemblyInfoInputs.cache
+D:\DotNet\Dotnet\Lab\SolidPrincipal\OPENCLOSEDRINCIPLE\obj\Debug\net8.0\OPENCLOSEDRINCIPLE.AssemblyInfo.cs
+D:\DotNet\Dotnet\Lab\SolidPrincipal\OPENCLOSEDRINCIPLE\obj\Debug\net8.0\OPENCLOSEDRINCIPLE.csproj.CoreCompileInputs.cache
+D:\DotNet\Dotnet\Lab\SolidPrincipal\OPENCLOSEDRINCIPLE\obj\Debug\net8.0\OPENCLOSEDRINCIPLE.sourcelink.json
+D:\DotNet\Dotnet\Lab\SolidPrincipal\OPENCLOSEDRINCIPLE\obj\Debug\net8.0\OPENCLOSEDRINCIPLE.dll
+D:\DotNet\Dotnet\Lab\SolidPrincipal\OPENCLOSEDRINCIPLE\obj\Debug\net8.0\refint\OPENCLOSEDRINCIPLE.dll
+D:\DotNet\Dotnet\Lab\SolidPrincipal\OPENCLOSEDRINCIPLE\obj\Debug\net8.0\OPENCLOSEDRINCIPLE.pdb
+D:\DotNet\Dotnet\Lab\SolidPrincipal\OPENCLOSEDRINCIPLE\obj\Debug\net8.0\OPENCLOSEDRINCIPLE.genruntimeconfig.cache
+D:\DotNet\Dotnet\Lab\SolidPrincipal\OPENCLOSEDRINCIPLE\obj\Debug\net8.0\ref\OPENCLOSEDRINCIPLE.dll

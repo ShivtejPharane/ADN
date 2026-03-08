@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DOTNET\\OopConcepts\\OopConcepts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F98238FE-FDCF-4D6A-9C70-FF8AAA9219E4}|class_object\\class_object.csproj|c:\\dotnet\\oopconcepts\\oopconcepts\\class_object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98238FE-FDCF-4D6A-9C70-FF8AAA9219E4}|class_object\\class_object.csproj|solutionrelative:class_object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4D23F8-FC17-43C2-A1B1-F5335C3FA75E}|Inheritance\\Inheritance\\Inheritance.csproj|c:\\dotnet\\oopconcepts\\oopconcepts\\inheritance\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4D23F8-FC17-43C2-A1B1-F5335C3FA75E}|Inheritance\\Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912A59B2-5B89-495B-AB29-3CC2BA552E01}|ConstructorDemo\\ConstructorDemo.csproj|c:\\dotnet\\oopconcepts\\oopconcepts\\constructordemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912A59B2-5B89-495B-AB29-3CC2BA552E01}|ConstructorDemo\\ConstructorDemo.csproj|solutionrelative:constructordemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161B2AB4-E199-40D8-BC26-7C4D83EE877A}|Interface\\Interface.csproj|c:\\dotnet\\oopconcepts\\oopconcepts\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161B2AB4-E199-40D8-BC26-7C4D83EE877A}|Interface\\Interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A879527B-65A8-4A85-9786-21CF167964D1}|Polymorphism\\Polymorphism.csproj|c:\\dotnet\\oopconcepts\\oopconcepts\\polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A879527B-65A8-4A85-9786-21CF167964D1}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4DBB68-8104-4AB9-9E0F-C8C542320180}|AbstractDemo\\AbstractDemo.csproj|c:\\dotnet\\oopconcepts\\oopconcepts\\abstractdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4DBB68-8104-4AB9-9E0F-C8C542320180}|AbstractDemo\\AbstractDemo.csproj|solutionrelative:abstractdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DOTNET\\OopConcepts\\OopConcepts\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Interface\\Program.cs",
+              "ToolTip": "C:\\DOTNET\\OopConcepts\\OopConcepts\\Interface\\Program.cs",
+              "RelativeToolTip": "Interface\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T03:12:01.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DOTNET\\OopConcepts\\OopConcepts\\AbstractDemo\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractDemo\\Program.cs",
+              "ToolTip": "C:\\DOTNET\\OopConcepts\\OopConcepts\\AbstractDemo\\Program.cs",
+              "RelativeToolTip": "AbstractDemo\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T03:09:42.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DOTNET\\OopConcepts\\OopConcepts\\Polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Program.cs",
+              "ToolTip": "C:\\DOTNET\\OopConcepts\\OopConcepts\\Polymorphism\\Program.cs",
+              "RelativeToolTip": "Polymorphism\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswEoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T03:06:55.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DOTNET\\OopConcepts\\OopConcepts\\ConstructorDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ConstructorDemo\\Program.cs",
+              "ToolTip": "C:\\DOTNET\\OopConcepts\\OopConcepts\\ConstructorDemo\\Program.cs",
+              "RelativeToolTip": "ConstructorDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T03:00:06.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DOTNET\\OopConcepts\\OopConcepts\\class_object\\Program.cs",
+              "RelativeDocumentMoniker": "class_object\\Program.cs",
+              "ToolTip": "C:\\DOTNET\\OopConcepts\\OopConcepts\\class_object\\Program.cs",
+              "RelativeToolTip": "class_object\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:25:10.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DOTNET\\OopConcepts\\OopConcepts\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Inheritance\\Program.cs",
+              "ToolTip": "C:\\DOTNET\\OopConcepts\\OopConcepts\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Inheritance\\Inheritance\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:24:09.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\Dotnet\Lab\Exp04\Exp04\Lamda_Expression\bin\Debug\net8.0\SimpleLamdaExpression.exe
+D:\Dotnet\Lab\Exp04\Exp04\Lamda_Expression\bin\Debug\net8.0\SimpleLamdaExpression.deps.json
+D:\Dotnet\Lab\Exp04\Exp04\Lamda_Expression\bin\Debug\net8.0\SimpleLamdaExpression.runtimeconfig.json
+D:\Dotnet\Lab\Exp04\Exp04\Lamda_Expression\bin\Debug\net8.0\SimpleLamdaExpression.dll
+D:\Dotnet\Lab\Exp04\Exp04\Lamda_Expression\bin\Debug\net8.0\SimpleLamdaExpression.pdb
+D:\Dotnet\Lab\Exp04\Exp04\Lamda_Expression\obj\Debug\net8.0\SimpleLamdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\Lab\Exp04\Exp04\Lamda_Expression\obj\Debug\net8.0\SimpleLamdaExpression.AssemblyInfoInputs.cache
+D:\Dotnet\Lab\Exp04\Exp04\Lamda_Expression\obj\Debug\net8.0\SimpleLamdaExpression.AssemblyInfo.cs
+D:\Dotnet\Lab\Exp04\Exp04\Lamda_Expression\obj\Debug\net8.0\SimpleLamdaExpression.csproj.CoreCompileInputs.cache
+D:\Dotnet\Lab\Exp04\Exp04\Lamda_Expression\obj\Debug\net8.0\SimpleLamdaExpression.sourcelink.json
+D:\Dotnet\Lab\Exp04\Exp04\Lamda_Expression\obj\Debug\net8.0\SimpleLamdaExpression.dll
+D:\Dotnet\Lab\Exp04\Exp04\Lamda_Expression\obj\Debug\net8.0\refint\SimpleLamdaExpression.dll
+D:\Dotnet\Lab\Exp04\Exp04\Lamda_Expression\obj\Debug\net8.0\SimpleLamdaExpression.pdb
+D:\Dotnet\Lab\Exp04\Exp04\Lamda_Expression\obj\Debug\net8.0\SimpleLamdaExpression.genruntimeconfig.cache
+D:\Dotnet\Lab\Exp04\Exp04\Lamda_Expression\obj\Debug\net8.0\ref\SimpleLamdaExpression.dll

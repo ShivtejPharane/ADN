@@ -1,0 +1,14 @@
+C:\Users\OM\source\repos\Basic_implemnentation\string\obj\Debug\net8.0\string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OM\source\repos\Basic_implemnentation\string\obj\Debug\net8.0\string.AssemblyInfoInputs.cache
+C:\Users\OM\source\repos\Basic_implemnentation\string\obj\Debug\net8.0\string.AssemblyInfo.cs
+C:\Users\OM\source\repos\Basic_implemnentation\string\obj\Debug\net8.0\string.csproj.CoreCompileInputs.cache
+C:\Users\OM\source\repos\Basic_implemnentation\string\bin\Debug\net8.0\string.exe
+C:\Users\OM\source\repos\Basic_implemnentation\string\bin\Debug\net8.0\string.deps.json
+C:\Users\OM\source\repos\Basic_implemnentation\string\bin\Debug\net8.0\string.runtimeconfig.json
+C:\Users\OM\source\repos\Basic_implemnentation\string\bin\Debug\net8.0\string.dll
+C:\Users\OM\source\repos\Basic_implemnentation\string\bin\Debug\net8.0\string.pdb
+C:\Users\OM\source\repos\Basic_implemnentation\string\obj\Debug\net8.0\string.dll
+C:\Users\OM\source\repos\Basic_implemnentation\string\obj\Debug\net8.0\refint\string.dll
+C:\Users\OM\source\repos\Basic_implemnentation\string\obj\Debug\net8.0\string.pdb
+C:\Users\OM\source\repos\Basic_implemnentation\string\obj\Debug\net8.0\string.genruntimeconfig.cache
+C:\Users\OM\source\repos\Basic_implemnentation\string\obj\Debug\net8.0\ref\string.dll

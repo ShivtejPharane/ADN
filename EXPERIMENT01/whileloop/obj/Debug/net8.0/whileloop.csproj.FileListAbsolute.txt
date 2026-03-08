@@ -1,0 +1,14 @@
+C:\Users\OM\source\repos\Basic_implemnentation\whileloop\bin\Debug\net8.0\whileloop.exe
+C:\Users\OM\source\repos\Basic_implemnentation\whileloop\bin\Debug\net8.0\whileloop.deps.json
+C:\Users\OM\source\repos\Basic_implemnentation\whileloop\bin\Debug\net8.0\whileloop.runtimeconfig.json
+C:\Users\OM\source\repos\Basic_implemnentation\whileloop\bin\Debug\net8.0\whileloop.dll
+C:\Users\OM\source\repos\Basic_implemnentation\whileloop\bin\Debug\net8.0\whileloop.pdb
+C:\Users\OM\source\repos\Basic_implemnentation\whileloop\obj\Debug\net8.0\whileloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OM\source\repos\Basic_implemnentation\whileloop\obj\Debug\net8.0\whileloop.AssemblyInfoInputs.cache
+C:\Users\OM\source\repos\Basic_implemnentation\whileloop\obj\Debug\net8.0\whileloop.AssemblyInfo.cs
+C:\Users\OM\source\repos\Basic_implemnentation\whileloop\obj\Debug\net8.0\whileloop.csproj.CoreCompileInputs.cache
+C:\Users\OM\source\repos\Basic_implemnentation\whileloop\obj\Debug\net8.0\whileloop.dll
+C:\Users\OM\source\repos\Basic_implemnentation\whileloop\obj\Debug\net8.0\refint\whileloop.dll
+C:\Users\OM\source\repos\Basic_implemnentation\whileloop\obj\Debug\net8.0\whileloop.pdb
+C:\Users\OM\source\repos\Basic_implemnentation\whileloop\obj\Debug\net8.0\whileloop.genruntimeconfig.cache
+C:\Users\OM\source\repos\Basic_implemnentation\whileloop\obj\Debug\net8.0\ref\whileloop.dll
