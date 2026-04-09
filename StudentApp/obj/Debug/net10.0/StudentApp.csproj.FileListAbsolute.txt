@@ -1,0 +1,9 @@
+E:\ADN\ADN\StudentApp\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\ADN\ADN\StudentApp\obj\Debug\net10.0\StudentApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\ADN\ADN\StudentApp\obj\Debug\net10.0\StudentApp.AssemblyInfoInputs.cache
+E:\ADN\ADN\StudentApp\obj\Debug\net10.0\StudentApp.AssemblyInfo.cs
+E:\ADN\ADN\StudentApp\obj\Debug\net10.0\StudentApp.csproj.CoreCompileInputs.cache
+E:\ADN\ADN\StudentApp\obj\Debug\net10.0\StudentApp.MvcApplicationPartsAssemblyInfo.cache
+E:\ADN\ADN\StudentApp\obj\Debug\net10.0\StudentApp.RazorAssemblyInfo.cache
+E:\ADN\ADN\StudentApp\obj\Debug\net10.0\StudentApp.RazorAssemblyInfo.cs
+E:\ADN\ADN\StudentApp\obj\Debug\net10.0\StudentApp.sourcelink.json
