@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Activity_03/Activity_03.csproj" />
+  <Project Path="Activity_04/Activity_04.csproj" />
+  <Project Path="ConvertToAsync/ConvertToAsync.csproj" />
+  <Project Path="Synchronous_Program/Synchronous_Program.csproj" />
+</Solution>

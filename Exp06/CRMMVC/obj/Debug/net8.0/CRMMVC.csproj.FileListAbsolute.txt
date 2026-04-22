@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Dotnet\Dotnet\Lab\Exp06\CRMMVC\bin\Debug\net8.0\CRMMVC.exe
+C:\Users\Hp\Desktop\Dotnet\Dotnet\Lab\Exp06\CRMMVC\bin\Debug\net8.0\CRMMVC.deps.json
+C:\Users\Hp\Desktop\Dotnet\Dotnet\Lab\Exp06\CRMMVC\bin\Debug\net8.0\CRMMVC.runtimeconfig.json
+C:\Users\Hp\Desktop\Dotnet\Dotnet\Lab\Exp06\CRMMVC\bin\Debug\net8.0\CRMMVC.dll
+C:\Users\Hp\Desktop\Dotnet\Dotnet\Lab\Exp06\CRMMVC\bin\Debug\net8.0\CRMMVC.pdb
+C:\Users\Hp\Desktop\Dotnet\Dotnet\Lab\Exp06\CRMMVC\obj\Debug\net8.0\CRMMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Dotnet\Dotnet\Lab\Exp06\CRMMVC\obj\Debug\net8.0\CRMMVC.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Dotnet\Dotnet\Lab\Exp06\CRMMVC\obj\Debug\net8.0\CRMMVC.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Dotnet\Dotnet\Lab\Exp06\CRMMVC\obj\Debug\net8.0\CRMMVC.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Dotnet\Dotnet\Lab\Exp06\CRMMVC\obj\Debug\net8.0\CRMMVC.sourcelink.json
+C:\Users\Hp\Desktop\Dotnet\Dotnet\Lab\Exp06\CRMMVC\obj\Debug\net8.0\CRMMVC.dll
+C:\Users\Hp\Desktop\Dotnet\Dotnet\Lab\Exp06\CRMMVC\obj\Debug\net8.0\refint\CRMMVC.dll
+C:\Users\Hp\Desktop\Dotnet\Dotnet\Lab\Exp06\CRMMVC\obj\Debug\net8.0\CRMMVC.pdb
+C:\Users\Hp\Desktop\Dotnet\Dotnet\Lab\Exp06\CRMMVC\obj\Debug\net8.0\CRMMVC.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Dotnet\Dotnet\Lab\Exp06\CRMMVC\obj\Debug\net8.0\ref\CRMMVC.dll

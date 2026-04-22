@@ -1,0 +1,48 @@
+@page
+@model CRMProject.Pages.Customers.Index
+@{
+    ViewData["Title"] = "Customers List";
+}
+
+<h2 class="mt-4">Customers List</h2>
+
+<p>
+    <a asp-page="Create" class="btn btn-primary">Create New Customer</a>
+</p>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Actions</th> </tr>
+    </thead>
+    <tbody>
+        @foreach (var customer in Model.ListCustomers)
+        {
+            <tr>
+                <td>@customer.Id</td>
+                <td>@customer.Name</td>
+                <td>@customer.Email</td>
+                <td>@customer.Phone</td>
+                <td> <a href="/Customers/Edit?id=@customer.Id" class="btn btn-primary btn-sm">
+                        Edit
+                    </a>
+                    
+                    <a href="/Customers/Delete?id=@customer.Id" class="btn btn-danger btn-sm">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,52 @@
+@page
+@model CRMProject.Pages.Customers.Create
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="row"> 
+    <h2>New Customer</h2> 
+    @if (!string.IsNullOrEmpty(ViewData["ErrorMessage"]?.ToString()))
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewData["ErrorMessage"]
+    </div>
+}
+   <form method="post"> 
+        @* <div class="row mb-3"> 
+            <label class ="col-sm-4 col-form-label">Id</label> 
+            <div class="col-sm-8"> 
+            <input class="form-control" asp-for="Create.id" /> 
+            <span asp-validation-for="Create.id" class="text-danger"></span> 
+        </div> *@ 
+        <div class="row mb-3"> 
+            <label class ="col-sm-4 col-form-label">Name*</label> 
+            <div class="col-sm-8"> 
+            <input class="form-control" asp-for="name" /> 
+            <span asp-validation-for="name" class="text-danger"></span> 
+            </div> 
+        </div> 
+        <div class="row mb-3"> 
+            <label class ="col-sm-4 col-form-label">Email*</label> 
+            <div class="col-sm-8"> 
+            <input class="form-control" asp-for="email" /> 
+            <span asp-validation-for="email" class="text-danger"></span> 
+        </div> 
+        </div> 
+        <div class="row mb-3"> 
+            <label class ="col-sm-4 col-form-label">Phone*</label> 
+            <div class="col-sm-8"> 
+            <input class="form-control" asp-for="phone" /> 
+            <span asp-validation-for="phone" class="text-danger"></span> 
+        </div> 
+        </div> 
+         
+        <div class="row"> 
+            <div class="col-sm-4 offset-sm-4 d-grid"> 
+                <button type="submit" class="btn btn-primary">Submit</button> 
+            </div> 
+            <div class="col-sm-4 d-grid"> 
+                <a asp-page="/Customers/Index" class="btn btn-secondary">Cancel</a> 
+            </div> -         </div>         -     </form> -      -     </div> 

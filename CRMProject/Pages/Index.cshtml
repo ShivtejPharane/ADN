@@ -1,0 +1,42 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center mt-5">
+    <h1 class="display-4">Welcome to CRM Homepage</h1>
+
+    @if (User.Identity != null && User.Identity.IsAuthenticated)
+    {
+        <h3 class="mt-4 text-success">You are logged in as @User.Identity.Name!</h3>
+        <p>Go to the <a asp-page="/Customers/Index">Customers List</a> to manage your data.</p>
+    }
+    else
+    {
+        <div class="card mx-auto mt-5" style="max-width: 400px;">
+            <div class="card-body">
+                <h3 class="card-title mb-4">Admin Login</h3>
+                
+                @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+                {
+                    <div class="alert alert-danger" role="alert">
+                        @Model.ErrorMessage
+                    </div>
+                }
+
+                <form method="post">
+                    <div class="mb-3 text-start">
+                        <label class="form-label">Username</label>
+                        <input asp-for="Username" class="form-control" placeholder="Enter 'admin'" />
+                    </div>
+                    <div class="mb-3 text-start">
+                        <label class="form-label">Password</label>
+                        <input asp-for="Password" type="password" class="form-control" placeholder="Enter 'password'" />
+                    </div>
+                    <button type="submit" class="btn btn-primary w-100">Login</button>
+                </form>
+            </div>
+        </div>
+    }
+</div>

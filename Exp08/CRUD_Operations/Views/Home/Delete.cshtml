@@ -1,0 +1,24 @@
+﻿@model CRUD_Operations.Models.Student
+<html>
+<head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+</head>
+<body>
+    <form action="/Home/AfterDelete" method="post">
+        @Html.AntiForgeryToken()
+        <table class="table">
+            <tr>
+                <td><input type="hidden" name="Id" value="@Model.Id" /></td>
+            </tr>
+            <tr>
+                <td>Are you sure you want to delete @Model.Name?</td>
+            </tr>
+            <tr>
+                <td><button type="submit">Delete</button></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
+
