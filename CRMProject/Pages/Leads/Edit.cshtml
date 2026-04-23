@@ -1,0 +1,53 @@
+@page
+@model CRMProject.Pages.Leads.EditModel
+@{
+    ViewData["Title"] = "Edit Lead";
+}
+
+<h1>Edit Lead</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <form method="post">
+            <input type="hidden" asp-for="Lead.Id" />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="mb-3">
+                <label class="form-label">Name</label>
+                <input asp-for="Lead.Name" class="form-control" />
+                <span asp-validation-for="Lead.Name" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Email</label>
+                <input asp-for="Lead.Email" class="form-control" />
+                <span asp-validation-for="Lead.Email" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Phone</label>
+                <input asp-for="Lead.Phone" class="form-control" />
+                <span asp-validation-for="Lead.Phone" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Company</label>
+                <input asp-for="Lead.Company" class="form-control" />
+                <span asp-validation-for="Lead.Company" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Status</label>
+                <select asp-for="Lead.Status" class="form-select">
+                    <option value="New">New</option>
+                    <option value="Contacted">Contacted</option>
+                    <option value="Qualified">Qualified</option>
+                    <option value="Lost">Lost</option>
+                </select>
+                <span asp-validation-for="Lead.Status" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-primary">Update</button>
+            <a asp-page="Index" class="btn btn-outline-secondary">Cancel</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

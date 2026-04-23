@@ -1,4 +1,4 @@
-﻿@page
+@page
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
@@ -10,7 +10,38 @@
     @if (User.Identity != null && User.Identity.IsAuthenticated)
     {
         <h3 class="mt-4 text-success">You are logged in as @User.Identity.Name!</h3>
-        <p>Go to the <a asp-page="/Customers/Index">Customers List</a> to manage your data.</p>
+        
+        <div class="row mt-5">
+            <div class="col-md-4">
+                <div class="card text-white bg-primary mb-3">
+                    <div class="card-body">
+                        <h5 class="card-title">Total Customers</h5>
+                        <p class="card-text display-6">@Model.TotalCustomers</p>
+                        <a asp-page="/Customers/Index" class="btn btn-light mt-2">Manage Customers</a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="card text-white bg-info mb-3">
+                    <div class="card-body">
+                        <h5 class="card-title">Total Leads</h5>
+                        <p class="card-text display-6">@Model.TotalLeads</p>
+                        <a asp-page="/Leads/Index" class="btn btn-light mt-2">Manage Leads</a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="card text-white bg-warning mb-3">
+                    <div class="card-body">
+                        <h5 class="card-title">Active Tasks</h5>
+                        <p class="card-text display-6">@Model.ActiveTasks</p>
+                        <a asp-page="/Tasks/Index" class="btn btn-light mt-2">View Tasks</a>
+                    </div>
+                </div>
+            </div>
+        </div>
     }
     else
     {

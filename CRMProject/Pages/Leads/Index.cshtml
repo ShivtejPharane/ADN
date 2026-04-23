@@ -1,0 +1,45 @@
+@page
+@model CRMProject.Pages.Leads.IndexModel
+@{
+    ViewData["Title"] = "Leads";
+}
+
+<h1>Leads</h1>
+
+<p>
+    <a asp-page="Create" class="btn btn-primary">Create New Lead</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Company</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.ListLeads)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Email</td>
+                <td>@item.Phone</td>
+                <td>@item.Company</td>
+                <td>
+                    <span class="badge @(item.Status == "New" ? "bg-info" : item.Status == "Contacted" ? "bg-primary" : item.Status == "Qualified" ? "bg-success" : "bg-danger")">
+                        @item.Status
+                    </span>
+                </td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.Id" class="btn btn-sm btn-outline-secondary">Edit</a> |
+                    <a asp-page="./Delete" asp-route-id="@item.Id" class="btn btn-sm btn-outline-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,46 @@
+@page
+@model CRMProject.Pages.Tasks.EditModel
+@{
+    ViewData["Title"] = "Edit Task";
+}
+
+<h1>Edit Task</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <form method="post">
+            <input type="hidden" asp-for="TaskItem.Id" />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="mb-3">
+                <label class="form-label">Title</label>
+                <input asp-for="TaskItem.Title" class="form-control" />
+                <span asp-validation-for="TaskItem.Title" class="text-danger"></span>
+            </div>
+            
+            <div class="mb-3">
+                <label class="form-label">Description</label>
+                <textarea asp-for="TaskItem.Description" class="form-control" rows="3"></textarea>
+                <span asp-validation-for="TaskItem.Description" class="text-danger"></span>
+            </div>
+            
+            <div class="mb-3">
+                <label class="form-label">Due Date</label>
+                <input asp-for="TaskItem.DueDate" type="date" class="form-control" />
+                <span asp-validation-for="TaskItem.DueDate" class="text-danger"></span>
+            </div>
+            
+            <div class="mb-3 form-check">
+                <input class="form-check-input" type="checkbox" asp-for="TaskItem.IsCompleted">
+                <label class="form-check-label">Is Completed</label>
+            </div>
+            
+            <button type="submit" class="btn btn-primary">Update</button>
+            <a asp-page="Index" class="btn btn-outline-secondary">Cancel</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
